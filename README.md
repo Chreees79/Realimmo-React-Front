@@ -10,7 +10,7 @@
 [![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Bienvenue sur **site d'annonces immobilières**, REALIMMO. Ce projet a été minutieusement monté par le **Vocal_15** durant la 22eme semaine de bootcamp *The Hacking Project*. Le front a été fait en React.js et le en back, l'API a été créée en Ruby on Rails.
+Bienvenue sur **site d'annonces immobilières**, REALIMMO. Ce projet a été minutieusement monté par le **Vocal_15** durant la 22eme semaine de bootcamp *The Hacking Project*. Le Front a été fait en **React.js** et pour le Back, l'API a été créée en **Ruby on Rails.**
 
 C'est un projet crash test avant de se lancer sur notre projet final final !
 
