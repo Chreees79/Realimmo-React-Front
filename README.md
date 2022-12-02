@@ -25,16 +25,27 @@ C'est un projet crash test avant de se lancer sur notre projet final final !
 
 [Authors Details](#authors-details)
 
-[Show your support](#show-your-support)
 
 </div>
 
 
-## Visiter/Se connecter/Poster
+## Website en production
 
 ↳ [REALIMMO 🏠](https://marketplace-mvp-front.vercel.app/)
 
+## Prévisualisation:
 
+### Page d'accueil:
+<img src="./public/assets/images/REALIMMO.1.png">
+
+### Dashboard:
+<img src="./public/assets/images/REALIMMO.2.png">
+
+### Page connection:
+<img src="./public/assets/images/REALIMMO.3.png">
+
+### Page détail d'un bien:
+<img src="./public/assets/images/REALIMMO.4.png">
 
 ![](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif)
 
@@ -62,14 +73,4 @@ C'est un projet crash test avant de se lancer sur notre projet final final !
 
 ## Show your support
 
-[Un Dev A La Mer](http://www.devalamer.fr/)
-
 Give us a ⭐ Star on GitHub — it helps!
-
-</br>
-
-### 😂 Here is a random joke that'll make you laugh!
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
