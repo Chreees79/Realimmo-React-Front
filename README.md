@@ -32,23 +32,24 @@ C'est un projet crash test avant de se lancer sur notre projet final final !
 ## Website en production
 
 ↳ [REALIMMO 🏠](https://marketplace-mvp-front.vercel.app/)
-
+<br>
 ## Prévisualisation:
 
 ### Page d'accueil:
 <img src="./public/assets/images/REALIMMO.1.png">
-
+<br>
 ### Dashboard:
 <img src="./public/assets/images/REALIMMO.2.png">
-
-### Page connection:
+<br>
+### Page connexion:
 <img src="./public/assets/images/REALIMMO.3.png">
-
+<br>
 ### Page détail d'un bien:
 <img src="./public/assets/images/REALIMMO.4.png">
-
+<br>
+<div align="center">
 ![](https://media.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif)
-
+</div>
 
 ## Features
 
