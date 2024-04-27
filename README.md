@@ -27,10 +27,6 @@ C'est un projet crash test avant de se lancer sur notre projet final final !
 </div>
 
 
-# Website en production
-
-↳ [REALIMMO 🏠](https://marketplace-mvp-front.vercel.app/)
-
 # Prévisualisation:
 
 ## Page d'accueil:
