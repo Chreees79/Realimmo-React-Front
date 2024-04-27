@@ -19,8 +19,6 @@ C'est un projet crash test avant de se lancer sur notre projet final final !
 
 
 
-[REALIMMO 🏠](https://marketplace-mvp-front.vercel.app/)
-
 [Features](#features)
 
 [Authors Details](#authors-details)
